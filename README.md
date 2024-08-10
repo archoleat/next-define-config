@@ -1,7 +1,7 @@
 # Next Define Config
 
-![NPM Version](https://img.shields.io/npm/v/%40archoleat%next-define-config)
-![NPM Downloads](https://img.shields.io/npm/dm/%40archoleat%next-define-config)
+![NPM Version](https://img.shields.io/npm/v/%40archoleat%2Fnext-define-config)
+![NPM Downloads](https://img.shields.io/npm/dm/%40archoleat%2Fnext-define-config)
 ![ESM](https://img.shields.io/badge/ESM-fe0)
 ![Provenance](https://img.shields.io/badge/Provenance-fo0)
 ![CodeQL](https://img.shields.io/github/actions/workflow/status/archoleat/next-define-config/codeql.yaml?label=CodeQL)
