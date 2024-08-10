@@ -45,6 +45,17 @@ yarn add -D @archoleat/next-define-config
 
 See [Next Configuration](https://nextjs.org/docs/app/api-reference/next-config-js).
 
+Instead of this:
+
+```js
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default nextConfig;
+```
+
+Use this:
+
 ```js
 // next.config.js or next.config.mjs
 import { defineConfig } from '@archoleat/next-define-config';
