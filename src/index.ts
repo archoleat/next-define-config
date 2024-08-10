@@ -1,3 +1,12 @@
-const sendMessage = async (string: string) => string;
+import type { NextConfig } from 'next';
 
-export { sendMessage };
+/**
+ * Define an Next config.
+ *
+ * @param {object} config Next.
+ *
+ * @returns Next config.
+ */
+const defineConfig = (config: NextConfig): NextConfig => config;
+
+export { defineConfig };
