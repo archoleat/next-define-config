@@ -10,7 +10,7 @@
 ![Editorconfig](https://img.shields.io/github/actions/workflow/status/archoleat/next-define-config/editorconfig.yaml?label=Editorconfig)
 ![Prettier](https://img.shields.io/github/actions/workflow/status/archoleat/next-define-config/prettier.yaml?label=Prettier)
 ![ESLint](https://img.shields.io/github/actions/workflow/status/archoleat/next-define-config/eslint.yaml?label=ESLint)
-![Remark](https://img.shields.io/github/actions/workflow/status/archoleat/next-define-config/Remark.yaml?label=Remark)
+![Remark](https://img.shields.io/github/actions/workflow/status/archoleat/next-define-config/remark.yaml?label=Remark)
 
 ## Table of Contents
 
