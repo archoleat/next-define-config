@@ -2,7 +2,7 @@ import { describe, expectTypeOf, test as spec } from 'vitest';
 
 import type { NextConfig } from 'next';
 
-import { defineConfig } from '#src';
+import { defineConfig } from '#app';
 
 describe('Next Config', () => {
   spec('empty config', async () => {
