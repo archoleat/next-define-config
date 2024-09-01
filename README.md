@@ -41,12 +41,9 @@ export default nextConfig;
 Use this:
 
 ```js
-// next.config.js or next.config.mjs
 import { defineConfig } from '@archoleat/next-define-config';
 
-export default defineConfig({
-  // Your options
-})
+export default defineConfig({})
 ```
 
 ## Contributing
