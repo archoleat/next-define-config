@@ -11,7 +11,7 @@
   "homepage": "https://github.com/archoleat/next-define-config#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/archoleat/next-define-config.git"
+    "url": "git+https://github.com/archoleat/next-define-config.git"
   },
   "bugs": {
     "url": "https://github.com/archoleat/next-define-config/issues"
