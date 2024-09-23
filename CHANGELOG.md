@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.1.0](https://github.com/archoleat/next-define-config/compare/v1.0.1...v1.1.0) (2024-09-23)
+
+### Features
+
+* add `funding.yaml` ([#36](https://github.com/archoleat/next-define-config/issues/36)) ([3b61f32](https://github.com/archoleat/next-define-config/commit/3b61f32813547ea29fabae58ba37a04fd79194d1))
+
+### Code Refactoring
+
+* **package:** add `git+` ([#34](https://github.com/archoleat/next-define-config/issues/34)) ([3a46256](https://github.com/archoleat/next-define-config/commit/3a462566d235d669e9399a06e7490fc6c7e1b338))
+* architecture ([#37](https://github.com/archoleat/next-define-config/issues/37)) ([10ef700](https://github.com/archoleat/next-define-config/commit/10ef700a56ad970ecef6f5be4c32a5b5cbce7884))
+* **prettier:** remove json override ([#35](https://github.com/archoleat/next-define-config/issues/35)) ([c47b737](https://github.com/archoleat/next-define-config/commit/c47b737e3d8316ff5048c428131eed79a220d609))
+
+### Documentation
+
+* **readme:** update ([#32](https://github.com/archoleat/next-define-config/issues/32)) ([f069f1a](https://github.com/archoleat/next-define-config/commit/f069f1ab722dfb73b234eba998c3a40eb7d66a60))
+
 ## [1.0.1](https://github.com/archoleat/next-define-config/compare/v1.0.0...v1.0.1) (2024-08-30)
 
 ### Bug Fixes
