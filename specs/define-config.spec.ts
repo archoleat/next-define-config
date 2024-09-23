@@ -1,15 +1,15 @@
 import { describe, expectTypeOf, test as spec } from 'vitest';
 
+import { defineConfig } from '#index';
+
 import type { NextConfig } from 'next';
 
-import { defineConfig } from '#app';
-
-describe('Next Config', () => {
-  spec('empty config', async () => {
+describe('Next Config', async () => {
+  spec('should return empty config', async () => {
     expectTypeOf(defineConfig({})).toEqualTypeOf<NextConfig>();
   });
 
-  spec('config', async () => {
+  spec('should return config', async () => {
     expectTypeOf(
       defineConfig({
         amp: {
