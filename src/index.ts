@@ -5,7 +5,7 @@ import type { NextConfig } from 'next';
  *
  * @param {object} config Next.
  *
- * @returns Next config.
+ * @return Next config.
  */
 const defineConfig = (config: NextConfig): NextConfig => config;
 
