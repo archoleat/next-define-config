@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/archoleat/next-define-config/compare/v1.1.0...v1.1.1) (2024-09-28)
+
+### Code Refactoring
+
+* move build script to `release.yaml` ([#38](https://github.com/archoleat/next-define-config/issues/38)) ([5b6b5cc](https://github.com/archoleat/next-define-config/commit/5b6b5cc4435265b64e1efe6295f165d9100a0e98))
+* rewrite comment ([#39](https://github.com/archoleat/next-define-config/issues/39)) ([45ca062](https://github.com/archoleat/next-define-config/commit/45ca0620fab1f3fa4413518b331d804afaf326dd))
+
 ## [1.1.0](https://github.com/archoleat/next-define-config/compare/v1.0.1...v1.1.0) (2024-09-23)
 
 ### Features
