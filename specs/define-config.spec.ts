@@ -1,8 +1,7 @@
 import { describe, expectTypeOf, test as spec } from 'vitest';
+import type { NextConfig } from 'next';
 
 import { defineConfig } from '#index';
-
-import type { NextConfig } from 'next';
 
 describe('Next Config', async () => {
   spec('should return empty config', async () => {
