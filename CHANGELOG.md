@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.2.0](https://github.com/archoleat/next-define-config/compare/v1.1.1...v1.2.0) (2024-12-21)
+
+### Features
+
+* add behavior bot ([#55](https://github.com/archoleat/next-define-config/issues/55)) ([970556e](https://github.com/archoleat/next-define-config/commit/970556e236e19b1e9d5ce35430a915805f8e4944))
+
+### Bug Fixes
+
+* pre-commit action ([#46](https://github.com/archoleat/next-define-config/issues/46)) ([8066d96](https://github.com/archoleat/next-define-config/commit/8066d966a90c57bb641ce9dd6a5b0c3bc23b434c))
+* release ([#68](https://github.com/archoleat/next-define-config/issues/68)) ([1a33333](https://github.com/archoleat/next-define-config/commit/1a33333cae15cd179e5d20a5bdea11a1d075342e))
+
+### Code Refactoring
+
+* remove codeql advanced ([#56](https://github.com/archoleat/next-define-config/issues/56)) ([1742c6e](https://github.com/archoleat/next-define-config/commit/1742c6eee9f58021da4736adcb4c9fdaf328296f))
+* small changes ([cab5d5f](https://github.com/archoleat/next-define-config/commit/cab5d5fe07ed5a1933864838aabc49bbc99a6265))
+* small changes ([#47](https://github.com/archoleat/next-define-config/issues/47)) ([3da1f41](https://github.com/archoleat/next-define-config/commit/3da1f41683524867e30c208e56f529f63fe61f98))
+* small changes ([#53](https://github.com/archoleat/next-define-config/issues/53)) ([3481ee3](https://github.com/archoleat/next-define-config/commit/3481ee305e859ebc65050ffdf0583500d5244996))
+* small changes ([#54](https://github.com/archoleat/next-define-config/issues/54)) ([bbb1396](https://github.com/archoleat/next-define-config/commit/bbb1396afafa057656b2efa93a786bc06bbd6903))
+* small changes ([#63](https://github.com/archoleat/next-define-config/issues/63)) ([19750e9](https://github.com/archoleat/next-define-config/commit/19750e965c112ed499cb59921d85ffd29ff0b22e))
+* small changes ([#64](https://github.com/archoleat/next-define-config/issues/64)) ([8e75f4b](https://github.com/archoleat/next-define-config/commit/8e75f4b6740fb4e1a7064b9a9287ee5c9bb04a20))
+* small changes ([#67](https://github.com/archoleat/next-define-config/issues/67)) ([c0dc44c](https://github.com/archoleat/next-define-config/commit/c0dc44ccc12a46f3baa6ae6ee1f4a21f13ea3a9c))
+
+### Documentation
+
+* **readme:** remove extra badges ([#57](https://github.com/archoleat/next-define-config/issues/57)) ([367a59a](https://github.com/archoleat/next-define-config/commit/367a59a8cafbb1bcbfb2d719f2c956affbc7904f))
+
 ## [1.1.1](https://github.com/archoleat/next-define-config/compare/v1.1.0...v1.1.1) (2024-09-28)
 
 ### Code Refactoring
