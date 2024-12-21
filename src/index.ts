@@ -3,7 +3,7 @@ import type { NextConfig } from 'next';
 /**
  * Define an Next config.
  *
- * @param {object} config NextJS.
+ * @param {object} config Next.
  *
  * @return Next config.
  */
