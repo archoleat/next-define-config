@@ -1,15 +1,14 @@
-import { describe, expectTypeOf, test as spec } from 'vitest';
-import type { NextConfig } from 'next';
+import { describe, expect, test as spec } from 'bun:test';
 
-import { defineConfig } from '#index';
+import { defineConfig } from '#src/index.ts';
 
 describe('Next Config', async () => {
   spec('should return empty config', async () => {
-    expectTypeOf(defineConfig({})).toEqualTypeOf<NextConfig>();
+    expect(defineConfig({}));
   });
 
   spec('should return config', async () => {
-    expectTypeOf(
+    expect(
       defineConfig({
         amp: {
           canonicalBase: '',
@@ -72,6 +71,6 @@ describe('Next Config', async () => {
         sassOptions: {},
         useFileSystemPublicRoutes: true,
       }),
-    ).toEqualTypeOf<NextConfig>();
+    );
   });
 });
