@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.2.1](https://github.com/archoleat/next-define-config/compare/v1.2.0...v1.2.1) (2025-03-30)
+
+### ⚠ BREAKING CHANGES
+
+* migrate to bun (#69)
+
+### Bug Fixes
+
+* checker ([#75](https://github.com/archoleat/next-define-config/issues/75)) ([9dac033](https://github.com/archoleat/next-define-config/commit/9dac0334989147a04f1b64c18cb5c94b86f8438f))
+
+### Code Refactoring
+
+* define-config.spec.ts ([#87](https://github.com/archoleat/next-define-config/issues/87)) ([9ce3a7c](https://github.com/archoleat/next-define-config/commit/9ce3a7c0c3cf4f74fce0ad405d11f0da69e81d7c))
+* ecrc ([cbf4bce](https://github.com/archoleat/next-define-config/commit/cbf4bcedfd0c7234d21b94327ab2963b6ea9deac))
+* ecrc ([1fa5ad6](https://github.com/archoleat/next-define-config/commit/1fa5ad65f12bdd1acd667f768aac855a068b8299))
+* ignore ([75d9e7a](https://github.com/archoleat/next-define-config/commit/75d9e7a0279e55852cbbaa5c402d6029c63a926b))
+* migrate to bun ([#69](https://github.com/archoleat/next-define-config/issues/69)) ([79cf59c](https://github.com/archoleat/next-define-config/commit/79cf59ccecfc11ba2ef080bc2e5c15f60664a036))
+* prettierignore ([83d1787](https://github.com/archoleat/next-define-config/commit/83d1787e5fff3a71ea546c5eab33a77b4d4dc125))
+* tsconfig ([0e47dcb](https://github.com/archoleat/next-define-config/commit/0e47dcbf032d571733c3e32f57b3c29e89e2f6c3))
+
+### Documentation
+
+* **readme:** rewrite ([#88](https://github.com/archoleat/next-define-config/issues/88)) ([babbef7](https://github.com/archoleat/next-define-config/commit/babbef7112607e543e5ef8ef33abce47d33fd6dc))
+
 ## [1.2.0](https://github.com/archoleat/next-define-config/compare/v1.1.1...v1.2.0) (2024-12-21)
 
 ### Features
