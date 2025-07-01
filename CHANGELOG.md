@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.2](https://github.com/archoleat/next-define-config/compare/v1.2.1...v1.2.2) (2025-07-01)
+
+### Code Refactoring
+
+* remove comments ([71bb14e](https://github.com/archoleat/next-define-config/commit/71bb14e49ed4567ef9c4c04155c5625b616ba5d3))
+
 ## [1.2.1](https://github.com/archoleat/next-define-config/compare/v1.2.0...v1.2.1) (2025-03-30)
 
 ### ⚠ BREAKING CHANGES
