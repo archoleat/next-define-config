@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.3](https://github.com/archoleat/next-define-config/compare/v1.2.2...v1.2.3) (2025-08-15)
+
+### Code Refactoring
+
+* dependabot ([#113](https://github.com/archoleat/next-define-config/issues/113)) ([dce1b1d](https://github.com/archoleat/next-define-config/commit/dce1b1da374890f4abfde12a1968870e86abe3af))
+
 ## [1.2.2](https://github.com/archoleat/next-define-config/compare/v1.2.1...v1.2.2) (2025-07-01)
 
 ### Code Refactoring
