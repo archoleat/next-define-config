@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.6](https://github.com/archoleat/next-define-config/compare/v1.2.5...v1.2.6) (2025-11-18)
+
+### Bug Fixes
+
+* deps ([#11](https://github.com/archoleat/next-define-config/issues/11)) ([a1aa288](https://github.com/archoleat/next-define-config/commit/a1aa288ef0b78be645692dcd8645d995b71b18cc))
+
 ## [1.2.5](https://github.com/archoleat/next-define-config/compare/v1.2.4...v1.2.5) (2025-11-18)
 
 ### Code Refactoring
