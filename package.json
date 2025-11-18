@@ -47,7 +47,7 @@
     "init": "bun i && husky"
   },
   "peerDependencies": {
-    "next": "^13.0.0 || ^14.0.0 || ^15.0.0"
+    "next": "^13.0.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
     "@archoleat/commitlint-define-config": "^1.1.1",
