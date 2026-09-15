@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.8](https://github.com/archoleat/next-define-config/compare/v1.2.7...v1.2.8) (2026-09-15)
+
+### Bug Fixes
+
+* **ci:** declare TypeScript and use client-id ([ecad615](https://github.com/archoleat/next-define-config/commit/ecad6150dd6fc7c729e04790b2fb3f6f1d2a421f))
+* **release:** use compatible changelog preset ([5b5932c](https://github.com/archoleat/next-define-config/commit/5b5932cf2955187364fe81324b3caefb07ef11fb))
+
 ## [1.2.7](https://github.com/archoleat/next-define-config/compare/v1.2.6...v1.2.7) (2026-07-01)
 
 ### Bug Fixes
