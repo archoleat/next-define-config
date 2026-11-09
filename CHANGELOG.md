@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.9](https://github.com/archoleat/next-define-config/compare/v1.2.8...v1.2.9) (2026-11-09)
+
+### Bug Fixes
+
+* publish current documentation and runtime guidance ([39cc9f6](https://github.com/archoleat/next-define-config/commit/39cc9f631bcd701863098a109ae6c7a7d5ee0abb))
+
+### Documentation
+
+* clarify usage and project constraints ([99533cb](https://github.com/archoleat/next-define-config/commit/99533cbb9502fdb975795801b488ea650c7812ef))
+
 ## [1.2.8](https://github.com/archoleat/next-define-config/compare/v1.2.7...v1.2.8) (2026-09-15)
 
 ### Bug Fixes
