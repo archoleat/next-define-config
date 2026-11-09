@@ -1,7 +1,7 @@
 {
   "name": "@archoleat/next-define-config",
   "description": "Typed defineConfig helper for Next.js configuration and editor completion.",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "license": "MIT",
   "author": {
     "email": "nikkeyl.me@gmail.com",

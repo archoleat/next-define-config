@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.11](https://github.com/archoleat/next-define-config/compare/v1.2.10...v1.2.11) (2026-11-09)
+
+### Bug Fixes
+
+* align package description with repository metadata ([6a3733a](https://github.com/archoleat/next-define-config/commit/6a3733ac10686fe4eab6701442f8035d804f7b2a))
+
 ## [1.2.10](https://github.com/archoleat/next-define-config/compare/v1.2.9...v1.2.10) (2026-11-09)
 
 ### Bug Fixes
