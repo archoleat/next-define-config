@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.10](https://github.com/archoleat/next-define-config/compare/v1.2.9...v1.2.10) (2026-11-09)
+
+### Bug Fixes
+
+* align npm keywords with repository topics ([fae8d0f](https://github.com/archoleat/next-define-config/commit/fae8d0fae1cd7e8fe09cc61daa65565651b0164c))
+
 ## [1.2.9](https://github.com/archoleat/next-define-config/compare/v1.2.8...v1.2.9) (2026-11-09)
 
 ### Bug Fixes
