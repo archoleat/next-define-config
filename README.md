@@ -17,7 +17,11 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-Provide a defineConfig function for Next.
+Use `defineConfig` to type an object-based Next.js configuration with a
+function call. It returns that object unchanged; a native `NextConfig`
+annotation, JSDoc, or `satisfies NextConfig` is enough when you do not need a
+helper. The declared peer ranges cover Next.js 13–16; async/function configs
+and runtime validation are outside this helper's API.
 
 ## Installation
 
@@ -43,7 +47,7 @@ Use this:
 ```js
 import { defineConfig } from '@archoleat/next-define-config';
 
-export default defineConfig({})
+export default defineConfig({});
 ```
 
 ## Contributing
