@@ -13,6 +13,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
+- [Runtime](#runtime)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -28,6 +29,12 @@ and runtime validation are outside this helper's API.
 ```shell
 bun i -D @archoleat/next-define-config
 ```
+
+## Runtime
+
+This ES module is loaded by the host tool's configuration loader. Follow
+the Node.js requirements of that tool. Bun is used for repository tooling,
+not required to call the published helper.
 
 ## Usage
 
